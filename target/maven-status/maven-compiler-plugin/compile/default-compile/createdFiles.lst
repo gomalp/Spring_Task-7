@@ -1,0 +1,9 @@
+ItmSprHibTct\config\HibernateConfig.class
+ItmSprHibTct\controller\UserController.class
+ItmSprHibTct\controller\HelloController.class
+ItmSprHibTct\repository\UserRepository.class
+ItmSprHibTct\config\AppInit.class
+ItmSprHibTct\config\UserInitializer.class
+ItmSprHibTct\service\UserService.class
+ItmSprHibTct\config\WebConfig.class
+ItmSprHibTct\model\User.class
