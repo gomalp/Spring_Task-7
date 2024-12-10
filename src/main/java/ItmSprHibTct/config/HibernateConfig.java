@@ -54,7 +54,6 @@ public class HibernateConfig {
         HibernateJpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();
         em.setJpaVendorAdapter(vendorAdapter);
         em.setJpaProperties(hibernateProperties());
-        System.out.println("+++++++++++++++++++++entityManagerFactory");
         return em;
     }
 
